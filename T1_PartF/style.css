@@ -1,0 +1,17 @@
+﻿#divMap {
+    width: 600px;
+    height: 400px;
+    float: left;
+}
+
+#divWeather {
+    display: inline;
+    float: left;
+    padding-left: 15px;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+#divResults {
+    padding-top: 15px;
+}
